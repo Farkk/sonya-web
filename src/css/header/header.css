@@ -1,0 +1,54 @@
+.header {
+  padding: 16px 0;
+}
+
+.header__container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header-logo {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+}
+
+
+.header-logo p {
+  font-family: Work Sans;
+  font-size: 30px;
+  font-weight: 700;
+
+  color: #2947A9;
+}
+
+.header-logo p span {
+  font-style: italic;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+}
+
+.nav-list {
+  display: flex;
+  align-items: center;
+  gap: 50px;
+} 
+
+.nav-list a {
+  font-family: Work Sans;
+  font-size: 18px;
+  font-weight: 400;
+
+  color: #14171F;
+  transition: color 0.2s ease-in-out;
+}
+
+.nav-list a:hover {
+  color: #F9995D;
+}
+  
+

@@ -1,0 +1,9 @@
+"filename", "language", "PostCSS", "XML", "HTML", "comment", "blank", "total"
+"d:\university\sonya-web\src\css\global.css", "PostCSS", 20, 0, 0, 0, 4, 24
+"d:\university\sonya-web\src\css\header\header.css", "PostCSS", 41, 0, 0, 0, 14, 55
+"d:\university\sonya-web\src\css\main\main.css", "PostCSS", 61, 0, 0, 0, 25, 86
+"d:\university\sonya-web\src\img\header\logo.svg", "XML", 0, 8, 0, 0, 1, 9
+"d:\university\sonya-web\src\img\main\reputation\designs.svg", "XML", 0, 3, 0, 0, 1, 4
+"d:\university\sonya-web\src\img\main\reputation\teams.svg", "XML", 0, 3, 0, 0, 1, 4
+"d:\university\sonya-web\src\index.html", "HTML", 0, 0, 66, 0, 0, 66
+"Total", "-", 122, 14, 66, 0, 46, 248

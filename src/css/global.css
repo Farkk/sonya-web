@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+h2 {
+  font-family: Work Sans;
+  font-size: 36px;
+  font-weight: 700;
+  text-align: center;
+
+  color: #292E3D;
+}
+
+h3 {
+  font-family: Work Sans;
+  font-size: 72px;
+  font-weight: 600;
+
+  color:#292E3D;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+}
+
+.container {
+  max-width: 1246px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
