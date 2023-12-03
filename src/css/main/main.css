@@ -325,3 +325,24 @@
 .contacts-links__socialNetwork img {
   width: 100%;
 }
+
+
+.about-bg {
+  padding: 450px 0 200px 0;
+  background: url('../../img/about/bg.png') center/cover no-repeat;
+}
+
+.about__text {
+  max-width: 620px;
+  color: #fff;
+}
+
+.projects-bg {
+  padding: 450px 0 200px 0;
+  background: url('../../img/projects/bg.png') center/cover no-repeat;
+}
+
+.services-bg {
+  padding: 450px 0 200px 0;
+  background: url('../../img/services/bg.png') center/cover no-repeat;
+}
